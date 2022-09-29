@@ -10,7 +10,7 @@ public class LocaInloco {
     public boolean verificar(String idLivro, String idUsuario){
         if(gerenciaLivro.buscaLivro(idLivro)){
             if(gerenciaUsuario.buscarUsuario(idUsuario)){
-                if(gerenciaEmprestimo.)
+                
             }
         }
         return false;
